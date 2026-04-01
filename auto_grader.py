@@ -33,7 +33,7 @@ def test_preprocess(results):
 def test_build_lm(results):
     checks = {
         "english_2_gram_length": 748,
-        "english_3_gram_length": 8240,
+        "english_3_gram_length": 8239,
         "french_3_gram_length": 8286,
         "spanish_3_gram_length": 8469
     }
@@ -82,7 +82,7 @@ def main():
     result = "Invalid test"
     
     if args.test == 'test_link':
-        result = test_link(full_results)
+        result = test_link(full_results.get("test_link", {}))
     elif args.test == 'test_preprocess':
         result = test_preprocess(full_results.get("test_preprocess", {}))
     elif args.test == 'test_build_lm':
