@@ -1,29 +1,29 @@
 {
   "test_link": {
-    "link": "https://colab.research.google.com/drive/19YDaKQcIflGhH0u9WsGaQZrOg4iBY99K?usp=sharing"
+    "link": "https://drive.google.com/file/d/1uSO34fNeeLsgNi88eAQ73uhRPWiwloNY/view?usp=sharing"
   },
   "test_preprocess": {
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 26.75,
-    "en_on_fr": 58.51,
-    "en_on_tl": 70.61,
-    "en_on_nl": 61.43
+    "en_on_en": 26.74,
+    "en_on_fr": 57.08,
+    "en_on_tl": 69.66,
+    "en_on_nl": 60.47
   },
   "test_generate": {
-    "english_2_gram": "I amat.ckere: 7VLAramari",
-    "english_3_gram": "I amVacting be re the mi",
-    "english_4_gram": "I Love unting bc of the li",
-    "spanish_2_gram": "Soy s tinola @gias dene",
-    "spanish_3_gram": "Soy sesalleTP4eW que mi",
-    "french_2_gram": "Je suis s unis: C'il_malang",
-    "french_3_gram": "Je suis seurerail pies ens "
+    "english_2_gram": "I amell1Gige omyo & he't",
+    "english_3_gram": "I amebompirs ans appree ",
+    "english_4_gram": "I Lover. Zo Are froming #M",
+    "spanish_2_gram": "Soy ' Dusos qups  en ce",
+    "spanish_3_gram": "Soy ensanta oto el 200 ",
+    "french_2_gram": "Je suis jeitpu s a male s:/",
+    "french_3_gram": "Je suistreil Her lon in vs "
   }
 }
