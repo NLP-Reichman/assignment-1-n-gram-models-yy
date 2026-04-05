@@ -1,0 +1,29 @@
+{
+  "test_link": {
+    "link": "https://colab.research.google.com/drive/19YDaKQcIflGhH0u9WsGaQZrOg4iBY99K?usp=sharing"
+  },
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_build_lm": {
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
+  },
+  "test_eval": {
+    "en_on_en": 26.75,
+    "en_on_fr": 58.51,
+    "en_on_tl": 70.61,
+    "en_on_nl": 61.43
+  },
+  "test_generate": {
+    "english_2_gram": "I amat.ckere: 7VLAramari",
+    "english_3_gram": "I amVacting be re the mi",
+    "english_4_gram": "I Love unting bc of the li",
+    "spanish_2_gram": "Soy s tinola @gias dene",
+    "spanish_3_gram": "Soy sesalleTP4eW que mi",
+    "french_2_gram": "Je suis s unis: C'il_malang",
+    "french_3_gram": "Je suis seurerail pies ens "
+  }
+}
